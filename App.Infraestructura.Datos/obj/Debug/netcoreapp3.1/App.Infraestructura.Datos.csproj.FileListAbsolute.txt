@@ -1,0 +1,17 @@
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\App.Dominio.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\obj\Debug\netcoreapp3.1\App.Infraestructura.Datos.csprojAssemblyReference.cache
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\obj\Debug\netcoreapp3.1\App.Infraestructura.Datos.AssemblyInfoInputs.cache
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\obj\Debug\netcoreapp3.1\App.Infraestructura.Datos.AssemblyInfo.cs
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Fam. DuRoc\source\repos\back-dockerize\App.Infraestructura.Datos\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
